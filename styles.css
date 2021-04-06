@@ -39,7 +39,7 @@ body{
     text-decoration: none;
     
 }
-a:visited {
+a:link a:visited a:active{
     color:inherit;
   }
 .column:hover{
